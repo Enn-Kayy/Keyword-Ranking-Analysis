@@ -1,0 +1,13 @@
+pandas
+openpyxl
+python-dotenv
+
+langgraph
+langchain-core
+langchain-groq
+
+streamlit
+plotly
+
+serpapi
+google-search-results
