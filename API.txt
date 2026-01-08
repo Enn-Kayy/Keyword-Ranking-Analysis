@@ -1,0 +1,4 @@
+SERPAPI_API_KEY=8f2f030000eaa61e13325b4ca89986c777dec3300bedc60a10fbefb20e1b0482
+GROQ_API_KEY=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
+
+Please create a .env file and paste these api keys there.
